@@ -17,10 +17,10 @@
 ## 🖼️ Screenshots
 
 ### Screenshot 1 – Single record output:
-![SQLI-1](./screenshot/SQLI-1.png)
+![SQLI-1](/SQLI-1.png)
 
 ### Screenshot 2 – HTML structure of output:
-![SQLI-2](./screenshot/SQLI-2.png)
+![SQLI-2](/SQLI-2.png)
 
 ## 🛠️ Recommendation
 
