@@ -80,20 +80,20 @@
 
 > Below are actual screenshots captured during testing. All images are located in the `screenshot/` subfolder.
 
-1. ![sqli-h-1.png](./screenshot/sqli-h-1.png)  
+1. ![sqli-h-1.png](/sqli-h-1.png)  
    _DVWA interface with SQL Injection (High) selected_
 
-2. ![sqli-h-2.png](./screenshot/sqli-h-2.png)  
+2. ![sqli-h-2.png](/sqli-h-2.png)  
    _Intercepted HTTP request using Burp Proxy_
 
-3. ![sqli-h-3.png](./screenshot/sqli-h-3.png)  
+3. ![sqli-h-3.png](/sqli-h-3.png)  
    _Repeater: payload with array injection `id[]=1`_
 
-4. ![sqli-h-4.png](./screenshot/sqli-h-4.png)  
+4. ![sqli-h-4.png](/sqli-h-4.png)  
    _Response from server: blank page (no result)_
 
-5. ![sqli-h-5.png](./screenshot/sqli-h-5.png)  
+5. ![sqli-h-5.png](/sqli-h-5.png)  
    _Alternative payload test with `UNION SELECT`_
 
-6. ![sqli-h-6.png](./screenshot/sqli-h-6.png)  
+6. ![sqli-h-6.png](/sqli-h-6.png)  
    _HTML/DOM inspection confirming no reflected output_
