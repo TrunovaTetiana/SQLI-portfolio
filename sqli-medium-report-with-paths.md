@@ -26,16 +26,16 @@ The objective of this test was to exploit a SQL injection vulnerability by injec
 ## Screenshots
 
 1. Modifying the `<select>` HTML in DevTools  
-   ![sqli-medium-1](./screenshot/SQLI-medium-1.png)
+   ![sqli-medium-1](/SQLI-medium-1.png)
 
 2. Interface before selecting payload  
-   ![sqli-medium-2](./screenshot/SQLI-medium-2.png)
+   ![sqli-medium-2](/SQLI-medium-2.png)
 
 3. Injection result displayed — login and password hash  
-   ![sqli-medium-3](./screenshot/SQLI-medium-3.png)
+   ![sqli-medium-3](/SQLI-medium-3.png)
 
 4. Dropdown successfully modified — new injected options  
-   ![sqli-medium-4](./screenshot/SQLI-medium-4.png)
+   ![sqli-medium-4](/SQLI-medium-4.png)
 
 ---
 
